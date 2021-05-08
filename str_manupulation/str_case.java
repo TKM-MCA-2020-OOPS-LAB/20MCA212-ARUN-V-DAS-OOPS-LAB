@@ -12,7 +12,6 @@ public class str_case {
 		str1=s1.next();
 		System.out.println("Upper Case: "+str1.toUpperCase());
 		System.out.println("Lower Case: "+str1.toLowerCase());
-		
 	}
 
 }
