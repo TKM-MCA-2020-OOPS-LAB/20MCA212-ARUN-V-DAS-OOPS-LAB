@@ -31,7 +31,7 @@ public class cpu {
 		
 		cpu.ram obj2 = new cpu.ram();
 		Scanner m=new Scanner(System.in);
-		System.out.println("Enter the Rame size:");
+		System.out.println("Enter the memory:");
 		obj2.memory=m.nextInt();
 		
 		Scanner mfg=new Scanner(System.in);
