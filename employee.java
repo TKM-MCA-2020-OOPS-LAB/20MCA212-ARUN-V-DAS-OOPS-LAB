@@ -46,6 +46,7 @@ public class employee {
 			if(srch==emp[i].eno)
 			{
 				emp[i].display();
+				break;
 			}
 		}
 		if(i==n)
