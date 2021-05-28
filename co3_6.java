@@ -25,7 +25,7 @@ class Circle implements calculation{
 	@Override
 	public void perimeter() {
 		pr=2*pi*r;
-		System.out.println("Parimeter of the Circle: "+pr);
+		System.out.println("Perimeter of the Circle: "+pr);
 		System.out.println("---------------------------------");
 	}
 }
@@ -49,7 +49,7 @@ class Rectangle implements calculation{
 	public void perimeter() {
 	
 		pr=2*(l+b);
-		System.out.println("Parimeter of the Rectangle: "+pr);
+		System.out.println("Perimeter of the Rectangle: "+pr);
 		System.out.println("---------------------------------");
 	}
 }
